@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A la découverte de github
-category: R
-tags: [R, Rdecouverte]
+tags: [S'amuser sur R]
 ---
 
 Kim fait un test
