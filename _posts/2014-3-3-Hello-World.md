@@ -5,6 +5,7 @@ tags: [S'amuser sur R]
 ---
 
 Kim fait un test
+Mais quand change t on de
+![_config.yml]({{ site.baseurl }}/images/config.png)
+page en fait ?
 
-#![_config.yml]({{ site.baseurl }}/images/config.png)
-#[Jekyll Now repository](https://github.com/barryclark/jekyll-now)
