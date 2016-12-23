@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: A la découverte de github
 category: R
 tags: [R, Rdecouverte]
 ---
