@@ -18,14 +18,14 @@ html {
 }
 
 body {
-	background: #efefef;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 900px;
   padding: 0 10px;
   width: 100%;
 }
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: #efefef;
+  color: #989898;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #efefef;
+    color: #989898;
   }
 }
 
@@ -165,7 +165,7 @@ img {
 
 .site-avatar {
   float: left;
-  width: 150px;
+  width: 600px;
   height: 150px;
   margin-right: 15px;
 
