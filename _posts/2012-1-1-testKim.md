@@ -1,13 +1,9 @@
 ---
-output: html_document
-title: "About"
+layout: post
+comments : true
+title: "Intégration de graphiques HTML"
+tags: [S'amuser sur R]
 ---
-
-
-Kim, statisticienne, aménagement du territoire.
-
-
-
 
 ```r
 library(sparkline)
@@ -22,8 +18,6 @@ plot(x)
 ```
 
 ![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-2.png)
-
-C'est trop la fête ce soir !
 
 
 ```r
