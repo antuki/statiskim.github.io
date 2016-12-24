@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qui suis-je ?
-permalink: /about/
+permalink: /apropos/
 ---
 
 <p>Je m'appelle Kim, je suis statisticienne de métier <FONT size="1">et j'adore faire du R à mes heures perdues</FONT>.</p>
