@@ -1,10 +1,11 @@
 ---
-output: html_document
-title: "About"
+layout: post
+comments : true
+title: test md non fructueux
+tags: [autre]
 ---
 
-
-Kim, statisticienne, am√©nagement du territoire.
+BLABLA
 
 
 
@@ -21,7 +22,7 @@ sparkline(x)
 
 ```
 ## Warning in normalizePath(path.expand(path), winslash, mustWork): path[1]=".
-## \webshot2d015087b1.png": Le fichier spÈcifiÈ est introuvable
+## \webshot2d015087b1.png": Le fichier sp√©cifi√© est introuvable
 ```
 
 ```
