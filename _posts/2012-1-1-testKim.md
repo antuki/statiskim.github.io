@@ -15,7 +15,7 @@ x <- rnorm(20)
 sparkline(x)
 ```
 
-<iframe width="854" height="480" src="https://antuki.github.io/figure/graph_html_test.html" frameborder="0"></iframe>
+<iframe width="20" height="20" src="https://antuki.github.io/figure/graph_html_test.html" frameborder="0"></iframe>
 
 ```r
 plot(x)
