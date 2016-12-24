@@ -2,17 +2,18 @@
 layout: default
 ---
 
+{% for post in site.posts limit:10 %}
 <div class="posts">
-  {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
       <div class="entry">
-        {{ post.excerpt }}
+        {{ post.content | split:'<!--break-->' | first }}
+   {% if post.content contains '<!--break-->' %}
+      <a href="{{ post.url }}">LIRE LA SUITE</a>
+   {% endif %}
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">LIRE LA SUITE</a>
-    </article>
-  {% endfor %}
+  </article>
 </div>
+{% endfor %}
