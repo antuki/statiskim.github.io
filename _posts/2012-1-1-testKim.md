@@ -15,7 +15,7 @@ x <- rnorm(20)
 sparkline(x)
 ```
 
-![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
+<iframe width="854" height="480" src="https://antuki.github.io/figure/graph_html_test.html" frameborder="0"></iframe>
 
 ```r
 plot(x)
