@@ -76,6 +76,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jemoji #rajout de Kim pour avoir des emoji
+  - jekyll-paginate #rajout de Kim pour développer le module de pagination
 
 # Exclude these files from your production _site
 exclude:
@@ -87,7 +89,7 @@ exclude:
 
 theme: jekyll-theme-cayman
 
-# ajout Kim pagination
+# ajout Kim pagination non utile à ce stade
 paginate: 1
 paginate_path: "/page:num"
 
