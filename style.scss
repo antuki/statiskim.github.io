@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkerGray;
 
   @include mobile {
     text-align: center;
@@ -166,8 +166,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 606px;
-  height: 212px;
+  width: 70px;
+  height: 70px;
   margin-right: 15px;
 
   @include mobile {
