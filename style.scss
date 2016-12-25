@@ -214,6 +214,7 @@ nav {
   font-family: $helveticaNeue;
   font-size: 18px;
   
+  
 	
   @include mobile {
     float: none;
@@ -229,6 +230,9 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    &:hover, &:active {
+    color: : #2AA198;
+  }
 
     @include mobile {
       margin: 0 10px;
