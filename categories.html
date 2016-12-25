@@ -12,6 +12,8 @@ permalink: /categories/
 {% endfor %}
 </ul>
 
+<br />
+
 <h1>Articles classés par catégories</h1>
 
 {% comment %}
@@ -59,7 +61,6 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
 {% for tag in tags %}
-
 	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
 <ul class="posts">
 	 {% for post in site.posts %}
