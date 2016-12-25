@@ -176,12 +176,12 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 0px; 
   }
 }
 
 .site-info {
-  float: left;
+  float: center;
 
   @include mobile {
     float: none;
