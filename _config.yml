@@ -86,3 +86,8 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+
+# ajout Kim pagination
+paginate: 2
+paginate_path: "/page:num"
+
