@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
-
-{% for post in paginator.posts%}
 <div class="posts">
-    <article class="post">
+{% for post in paginator.posts%}
+   <div class="posts"> 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>  
-      <span style="color:#6E6E6E;" class="post-date">{{ page.date | date: "%d-%m-%Y" }}</span>
+      <span style="color:#6E6E6E;" class="post-date">{{ page.date | date: "%d-%m-%Y" }}</span>  
   {% if page.tags %} | 
   {% for tag in page.tags %}
   <span style="color:#FFFFFF;background-color:#6E6E6E;padding:.1em 1em;">{{ tag }}</span>
   {% endfor %}
   {% endif %}     
+       
+       
       <div class="entry">
         {{ post.content | split:'<!--break-->' | first }}
    {% if post.content contains '<!--break-->' %}
@@ -19,11 +20,10 @@ layout: default
    {% endif %}
       </div>
    <hr width="100%" size="0.5px" color="#E6E6E6" align=center/> <!-- Barre verticale page index -->    
-  </article>
 </div>
-{% endfor %}
+       {% endfor %}
+</div>
 
-  
   {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
