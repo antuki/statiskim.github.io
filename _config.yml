@@ -89,6 +89,9 @@ exclude:
 
 theme: jekyll-theme-cayman
 
+#ajout Kim catégories
+tag_page: '/categories/'
+
 # ajout Kim pagination
 paginate: 1
 paginate_path: "/page:num"
