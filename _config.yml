@@ -93,7 +93,7 @@ theme: jekyll-theme-cayman
 tag_page: '/categories/'
 
 # ajout Kim pagination
-paginate: 1
+paginate: 5
 paginate_path: "/page:num"
 text:
   pagination:
