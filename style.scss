@@ -125,7 +125,7 @@ img {
   color: $black;
   background: $lightGray;
 }
-::selection {
+::selection {tit
   color: $black;
   background: $lightGray;
 }
@@ -264,6 +264,11 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
+	
+// rajout Kim pour la couleur du titre
+.post-title {
+ color: #2AA198;
+}
 
   .comments {
     margin-top: 10px;
