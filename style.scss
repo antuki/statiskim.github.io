@@ -266,11 +266,6 @@ nav {
     font-style: italic;
   }
 	
-// rajout Kim pour la couleur du titre
-.post-title {
- color: "#2AA198";
-} // ne marche pas !
-
   .comments {
     margin-top: 10px;
   }
@@ -371,6 +366,16 @@ footer {
       margin: 0;
       padding: 0;
 }
+
+// rajout Kim pour la couleur du titre
+.post-title {
+ color: "#2AA198";
+ font-size: 28px;
+  a {
+    color: inherit;
+  }
+} // ne marche pas !
+
 
 // rajout Kim sur les positions
 .left {
