@@ -89,7 +89,10 @@ exclude:
 
 theme: jekyll-theme-cayman
 
-# ajout Kim pagination non utile à ce stade
+# ajout Kim pagination
 paginate: 1
 paginate_path: "/page:num"
-
+text:
+  pagination:
+    newer: 'Nouveaux'
+    older: 'Anciens'
