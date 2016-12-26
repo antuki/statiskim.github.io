@@ -370,10 +370,9 @@ footer {
       color:#FFFF00;
       margin: 0;
       padding: 0;
-    }
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
-  }
+     font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
