@@ -4,8 +4,7 @@ layout: default
 <div class="post">
 {% for post in paginator.posts%}
   
-  <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-    
+  <span class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
   <span class="post-date">{{ page.date | date: "%d-%m-%Y" }}</span>
   {% if page.tags %} | 
   {% for tag in page.tags %}
