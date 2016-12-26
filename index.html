@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<div class="posts">
 {% for post in paginator.posts%}
-<div class="post">
   <span class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span><br/>
 <span class="post-date">{{ page.date | date: "%d-%m-%Y" }}</span>
   {% if page.tags %} | 
@@ -18,13 +16,10 @@ layout: default
     <a href="{{ post.url }}">LIRE LA SUITE</a>
    {% endif %}
    </div>
-    
     <br />
     <hr width="100%" size="0.5px" color="#E6E6E6" align=center/> <!-- Barre verticale page index -->    
     <br />
-</div>
 {% endfor %}
-</div>
   
 <div class="pagination clearfix mb1 mt4">
   <div class="left">
