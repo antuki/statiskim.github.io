@@ -5,16 +5,17 @@ comments: true
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span style="color:#6E6E6E;" class="post-date">{{ page.date | date: "%d-%m-%Y" }}</span>
+  <span class="post-date">{{ page.date | date: "%d-%m-%Y" }}</span>
   {% if page.tags %} | 
   {% for tag in page.tags %}
-  <span style="color:#FFFFFF;background-color:#2AA198;padding:.1em 1em;">{{ tag }}</span>
+   <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
   {% endfor %}
   {% endif %}
   <article>
     {{ content }}
   </article>
 </div>
+
    
 {% if page.comments %}
 <div id="disqus_thread"></div>
