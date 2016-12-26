@@ -78,7 +78,7 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jemoji #rajout de Kim pour avoir des emoji
   - jekyll-paginate #rajout de Kim pour développer le module de pagination
-  - jekyll-giphy #rajout Kim : tirage aléatoire de gif sur giphy
+  - [jekyll-giphy] #rajout Kim : tirage aléatoire de gif sur giphy
 
 # Exclude these files from your production _site
 exclude:
