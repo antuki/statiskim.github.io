@@ -346,19 +346,15 @@ footer {
 .post-tag {
   display: inline-block;
   background: #6E6E6E;
+  color:#FFFFFF;
   padding: 0 .5rem;
   margin-right: .5rem;
   border-radius: 4px;
-  color:#FFFFFF;
   font-size: 90%;
-  &:before {
-    content: "\f02b";
-    padding-right: .5em;
-  }
   &:hover {
     text-decoration: none;
-    background: #FF0000;
-    color: $white;
+    background: #2AA198;
+    color: #FFFFFF;
   }
 }
 
