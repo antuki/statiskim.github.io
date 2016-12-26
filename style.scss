@@ -308,15 +308,19 @@ footer {
   padding: 1em 1.5em;
 }
 
-.pagination .disabled, .pagination{
+
+.pagination .disabled, .pagination {
   opacity: 0.5;
 }
 
+.pagination .pagination-meta {
+  overflow: hidden;
+}
 
 .pagination-meta {
-  overflow: hidden;
   color: #2AA198;
 }
+
 
 .pagination a:hover, .pagination a:focus {
   background: white;
