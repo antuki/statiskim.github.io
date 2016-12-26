@@ -78,6 +78,7 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jemoji #rajout de Kim pour avoir des emoji
   - jekyll-paginate #rajout de Kim pour développer le module de pagination
+  - jekyll-email-protect #rajout de Kim : protéger son adresse mail
 
 # Exclude these files from your production _site
 exclude:
