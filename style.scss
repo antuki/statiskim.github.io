@@ -345,21 +345,21 @@ footer {
 // rajout Kim post-date et post-tag
 .post-tag {
   display: inline-block;
-  background: rgba($theme-color, 0.15);
+  background: rgba(#FF0000, 0.15);
   padding: 0 .5rem;
   margin-right: .5rem;
   border-radius: 4px;
-  color: $theme-color;
-  font-family: $font-sans;
+  color:#FF0000;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;;
   font-size: 90%;
   &:before {
     content: "\f02b";
-    font-family: $font-font-awesome;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;;
     padding-right: .5em;
   }
   &:hover {
     text-decoration: none;
-    background: $theme-color;
+    background: #FF0000;
     color: $white;
   }
   @include transition(all .1s ease-in-out);
@@ -400,11 +400,11 @@ footer {
     .post-date {
       display: inline-block;
       font-size: 80%;
-      color: $post-date-color;
+      color:#FFFF00;
       margin: 0;
       padding: 0;
     }
-    font-family: $font-sans;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
   }
 }
 
