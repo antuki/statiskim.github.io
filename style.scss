@@ -197,6 +197,14 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  
+	// new a verif puis suppr
+   a {
+    &:hover, &:active {
+    color: #2AA198;
+    }
+   }		  
+		  
 }
 
 .site-description {
