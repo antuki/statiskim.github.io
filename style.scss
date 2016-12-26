@@ -377,9 +377,14 @@ footer {
  font-size: 28px;
  font-weight : bold;
   a {
-    color: inherit;
+  color: #2AA198;
+  &:hover, &:active {
+    color: #989898;
   }
 } 
+
+
+
 
 // rajout Kim sur les positions
 .left {
