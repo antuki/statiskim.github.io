@@ -21,3 +21,6 @@ sparkline(x)
 
 ```
 
+<div style="width:100px;height:100px;overflow:hidden;">
+  <iframe style="width:100px;height:100px;left:-20px;top:-20px;" src="https://antuki.github.io/figure/graph_html_test.html" />
+</div>
