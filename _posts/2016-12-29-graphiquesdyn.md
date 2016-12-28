@@ -11,6 +11,8 @@ Depuis une petite année, j'ai eu l'occasion de découvrir quelques [htmlwidgets
 
 En voici quelques exemples...
 
+<div style="position:relative;width:75px;height:36px;overflow:hidden;"><iframe scrolling="no" style="position:absolute;width:1000px;height:1000px;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graph_html_test.html"></iframe></div>
+
 <!--break-->
 
 
@@ -21,9 +23,5 @@ sparkline(x)
 
 ```
 
-<div style="position:relative;width:75px;height:36px;overflow:hidden;"><iframe scrolling="no" style="position:absolute;width:1000px;height:1000px;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graph_html_test.html"></iframe></div>
-
-
-<iframe scrolling="no" style="position:absolute;width:75px;height:36;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graph_html_test.html"></iframe>
 
 <iframe scrolling="no" style="position:relative;width:75px;height:36;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graph_html_test.html"></iframe>
