@@ -24,4 +24,4 @@ sparkline(x)
 ```
 
 
-<iframe scrolling="no" style="position:relative;width:75px;height:36;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graph_html_test.html"></iframe>
+<iframe scrolling="no" style="position:relative;width:36px;height:75;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graph_html_test.html"></iframe>
