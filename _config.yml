@@ -97,5 +97,5 @@ paginate: 5
 paginate_path: "/page:num"
 text:
   pagination:
-    newer: 'Nouveaux'
-    older: 'Anciens'
+    newer: '<<'
+    older: '>>'
