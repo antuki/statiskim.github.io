@@ -7,6 +7,8 @@ tags: [Open data et open source]
 
 commentaires 
 
+<div style="position:relative;width:1000px;height:1000px;overflow:hidden;"><iframe scrolling="no" style="position:absolute;width:1000px;height:1000px;left:-41px;top:-41px;" src="https://antuki.github.io/figure/fichier_prenoms_html1.html"></iframe></div>
+
 
 ```r
 library(foreign)
