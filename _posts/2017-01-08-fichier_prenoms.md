@@ -19,7 +19,7 @@ test3
   <iframe src="https://antuki.github.io/figure/fichier_prenoms_html1.html" allowfullscreen></iframe>
 </div>
 
-test4
+test4 tempdir
 <!--break-->
 
 ```r
