@@ -12,7 +12,7 @@ commentaires
 
 <iframe scrolling="no" src="https://antuki.github.io/figure/fichier_prenoms_html1.html"></iframe>
 
-test2
+test2 https://benmarshall.me/responsive-iframes/
 
 <!--break-->
 
