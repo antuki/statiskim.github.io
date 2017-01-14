@@ -22,6 +22,12 @@ sparkline(x)
 ```
 <div style="position:relative;width:75px;height:36px;overflow:hidden;"><iframe scrolling="no" style="position:absolute;width:1000px;height:1000px;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graphiquesdyn_html1.html"></iframe></div>
 
+<div style="position:relative;width:75px;height:36px;overflow:hidden;"><iframe scrolling="no" style="position:absolute;width:1000px;height:1000px;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graphiquesdyn_html1.html"></iframe></div>
+
+<iframe scrolling="no" style="position:relative;width:75px;height:36;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graphiquesdyn_html1.html"></iframe>
+
+<iframe width="100" height="100" src="https://antuki.github.io/figure/graphiquesdyn_html1.html" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+
 
 ```r
 #install.packages("leaflet")
