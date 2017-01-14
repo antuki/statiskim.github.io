@@ -5,14 +5,9 @@ title: "Réaliser des graphiques dynamiques sur R"
 tags: [S'amuser sur R]
 ---
 
-Depuis une petite année, j'ai eu l'occasion de découvrir quelques [htmlwidgets pour R](http://gallery.htmlwidgets.org/) qui permettent de générer en code html des graphiques bien sympathiques. 
+Depuis une petite année, j'ai eu l'occasion de découvrir quelques htmlwidgets pour R qui permettent de générer en code html des graphiques bien sympathiques. 
 
-
-En voici quelques exemples...
-
-
-<!--break-->
-
+En voici quelques exemples et empressez-vous de découvrir les autres [ici](http://gallery.htmlwidgets.org/) !
 
 ```r
 #install.packages("sparkline")
@@ -23,7 +18,7 @@ sparkline(x)
 
 <iframe scrolling="no" style="position:relative;width:75px;height:36;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graphiquesdyn_html1.html"></iframe>
 
-
+<!--break-->
 
 ```r
 #install.packages("leaflet")
