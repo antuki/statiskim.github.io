@@ -5,42 +5,16 @@ title: "L'Insee met en ligne le fichier des prénoms"
 tags: [Open data et open source]
 --- 
 
-commentaires 
-
-<iframe frameborder="0" height="600" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
 
 commentaires 
 
-<iframe frameborder="0" height="100%" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
-
-com
-
-<iframe frameborder="0" height="auto" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
-
-com3 
-
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.25%;">
+<div style="position:relative; width:100%; height:0px; padding-bottom:65%;">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
 </div>
 
-com3bis 
-
-<div style="position:relative; width:100%; height:0px; padding-bottom:80%;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
-        src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
-    </iframe>
-</div>
-
-
-
-com4
-
-<iframe src="https://antuki.github.io/figure/fichier_prenoms_html1.html" style="resize: both;"               
-        onload="this.style.height=this.contentDocument.body.scrollHeight +'px'; this.style.width=this.contentDocument.body.scrollWidth +'px';"
-        onresize="this.style.height=this.contentDocument.body.scrollHeight +'px'; this.style.width=this.contentDocument.body.scrollWidth +'px';">
-</iframe>
+commentaires
 
 <!--break-->
 
