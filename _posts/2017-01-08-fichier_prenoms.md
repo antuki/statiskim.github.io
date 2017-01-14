@@ -8,7 +8,7 @@ tags: [Open data et open source]
 
 commentaires 
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:65%;">
+<div style="position:relative; width:80%; height:0px; padding-bottom:65%;">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
