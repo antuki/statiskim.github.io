@@ -43,8 +43,3 @@ m
 library(plotly)
 plot_ly(z = ~volcano, type = "surface")
 ```
-<div style="position:relative; max-width: 100%; width:800px; height:0px; padding-bottom:65%;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%"
-        src="https://antuki.github.io/figure/graphiquesdyn_html3.html">
-    </iframe>
-</div>
