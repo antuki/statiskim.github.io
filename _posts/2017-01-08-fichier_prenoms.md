@@ -5,25 +5,6 @@ title: "L'Insee met en ligne le fichier des prénoms"
 tags: [Open data et open source]
 --- 
 
-
-commentaires 
-
-<div style="position:relative; width:80%; height:0px; padding-bottom:65%;" align="center">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
-        src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
-    </iframe>
-</div>
-
-com3 
-
-<div style="position:relative; width:100%; height:0px; padding-bottom:65%;">
-    <iframe style="position:absolute; left:0; top:0; width:80%; height:100%"
-        src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
-    </iframe>
-</div>
-
-commentaires
-
 <div style="position:relative; width:100%; height:0px; padding-bottom:65%;">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
@@ -32,8 +13,8 @@ commentaires
 
 com4
 
-<div style="position:relative; max-width: 100%; width:1000; height:0px; padding-bottom:65%;">
-    <iframe style="position:absolute; left:0; top:0; width:1000; height:100%;max-width: 100%"
+<div style="position:relative; max-width: 100%; width:3000; height:0px; padding-bottom:65%;">
+    <iframe style="position:absolute; left:0; top:0; width:3000; height:100%;max-width: 100%"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
 </div>
