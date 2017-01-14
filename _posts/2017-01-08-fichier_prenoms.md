@@ -6,16 +6,12 @@ tags: [Open data et open source]
 --- 
 
 commentaires 
-<iframe frameborder="0" height="600" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="800" align="center"></iframe>
+
+<iframe frameborder="0" height="600" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
 
 commentaires 
 
-<iframe frameborder="0" height="600" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="90%" align="center"></iframe>
-
-commentaires 
-
-<iframe frameborder="0" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="800" align="center"></iframe>
-
+<iframe frameborder="0" height="50%" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
 
 <!--break-->
 
