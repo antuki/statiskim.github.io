@@ -11,9 +11,9 @@ tags: [Open data et open source]
     </iframe>
 </div>
 
-com2
+kom2
 
-<div style="position:relative; max-width: 100%; width:1000px; height:0px; padding-bottom:65%;">
+<div style="position:relative; max-width: 100%; width:500px; height:0px; padding-bottom:65%;">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
@@ -21,7 +21,7 @@ com2
 
 com3
 
-<div style="position:relative; max-width: 100%; width:1000px; height:500px; padding-bottom:65%;">
+<div style="position:relative; max-width: 100%; width:1000px; height:200px; padding-bottom:65%;">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
@@ -30,7 +30,7 @@ com3
 
 com4
 
-<div style="position:relative; max-width: 100%; width:1000px; height:500px;">
+<div style="position:relative; max-width: 100%; width:1000px; height:200px;">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
