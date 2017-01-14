@@ -13,26 +13,26 @@ commentaire
     </iframe>
 </div>
 
-align center 1
+zalign center 1
 
-<div style="position:relative; max-width: 100%; width:800px; height:0px; padding-bottom:65%;" align=center>
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%" align=center
+<div style="position:relative; max-width: 100%; width:800px; height:0px; padding-bottom:65%;" align="center">
+    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%" align="middle"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
 </div>
 
-align center 2
+zalign center 2
 
-<div style="position:relative; max-width: 100%; width:800px; height:0px; padding-bottom:65%;" align=center>
+<div style="position:relative; max-width: 100%; width:800px; height:0px; padding-bottom:65%;" align="center">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%" 
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
 </div>
 
-align center 3
+zalign center 3
 
 <div style="position:relative; max-width: 100%; width:800px; height:0px; padding-bottom:65%;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%" align=center
+    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%" align="middle"
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
 </div>
