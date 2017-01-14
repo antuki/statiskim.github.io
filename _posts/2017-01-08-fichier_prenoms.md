@@ -25,6 +25,13 @@ com3
     </iframe>
 </div>
 
+com4
+
+<iframe src="https://antuki.github.io/figure/fichier_prenoms_html1.html" style="resize: both;"               
+        onload="this.style.height=this.contentDocument.body.scrollHeight +'px'; this.style.width=this.contentDocument.body.scrollWidth +'px';"
+        onresize="this.style.height=this.contentDocument.body.scrollHeight +'px'; this.style.width=this.contentDocument.body.scrollWidth +'px';">
+</iframe>
+
 <!--break-->
 
 ```r
