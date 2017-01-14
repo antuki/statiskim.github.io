@@ -9,16 +9,6 @@ Depuis une petite année, j'ai eu l'occasion de découvrir quelques htmlwidgets 
 
 En voici quelques exemples et empressez-vous de découvrir les autres [ici](http://gallery.htmlwidgets.org/) !
 
-```r
-#install.packages("sparkline")
-library(sparkline)
-x <- rnorm(20)
-sparkline(x)
-```
-
-<iframe scrolling="no" style="position:relative;width:75px;height:36;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graphiquesdyn_html1.html"></iframe>
-
-<!--break-->
 
 ```r
 #install.packages("leaflet")
@@ -34,3 +24,14 @@ m
         src="https://antuki.github.io/figure/graphiquesdyn_html2.html">
     </iframe>
 </div>
+
+<!--break-->
+
+```r
+#install.packages("sparkline")
+library(sparkline)
+x <- rnorm(20)
+sparkline(x)
+```
+
+<iframe scrolling="no" style="position:relative;width:75px;height:36;left:-41px;top:-41px;" src="https://antuki.github.io/figure/graphiquesdyn_html1.html"></iframe>
