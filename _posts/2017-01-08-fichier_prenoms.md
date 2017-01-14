@@ -10,16 +10,13 @@ commentaires
 <div style="position:relative;width:1000px;height:1000px;overflow:hidden;"><iframe scrolling="no" style="position:absolute;width:1000px;height:1000px;left:-41px;top:-41px;" src="https://antuki.github.io/figure/fichier_prenoms_html1.html"></iframe></div>
 
 
-<iframe scrolling="no" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width=100% height=100%></iframe>
-
 test2 https://benmarshall.me/responsive-iframes/
-test3
 
-<div class="intrinsic-container">
-  <iframe src="https://antuki.github.io/figure/fichier_prenoms_html1.html" allowfullscreen></iframe>
+test3 http://www.coactis.fr/le-coin-du-geek/comment-rendre-une-iframe-responsive
+<div class="conteneur">
+<iframe src="https://antuki.github.io/figure/fichier_prenoms_html1.html"></iframe>
 </div>
 
-test4 tempdir
 <!--break-->
 
 ```r
