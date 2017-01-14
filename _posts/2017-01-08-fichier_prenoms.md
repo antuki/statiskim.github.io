@@ -11,11 +11,11 @@ commentaires
 
 commentaires 
 
-<iframe frameborder="0" height="50%" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
+<iframe frameborder="0" height="100%" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
 
 com
 
-<iframe frameborder="0" height=auto src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
+<iframe frameborder="0" height="auto" src="https://antuki.github.io/figure/fichier_prenoms_html1.html" width="100%" align="center"></iframe>
 
 com3 
 
@@ -24,6 +24,16 @@ com3
         src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
     </iframe>
 </div>
+
+com3bis 
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:80%;">
+    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
+        src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
+    </iframe>
+</div>
+
+
 
 com4
 
