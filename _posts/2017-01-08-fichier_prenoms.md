@@ -13,32 +13,6 @@ commentaire
     </iframe>
 </div>
 
-com1
-
-<div style="position:relative; max-width: 100%; width:800px; height:400px; padding-bottom:65%;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%"
-        src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
-    </iframe>
-</div>
-
-comA
-
-<div style="position:relative; max-width: 100%; width:800px; height:400px;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%"
-        src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
-    </iframe>
-</div>
-
-
-com2
-
-<div style="position:relative; max-width: 100%; width:800px; height:400px; padding-bottom:400px;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%;max-width: 100%"
-        src="https://antuki.github.io/figure/fichier_prenoms_html1.html">
-    </iframe>
-</div>
-
-
 <!--break-->
 
 ```r
