@@ -48,12 +48,12 @@ library(dygraphs)
 
 #Téléchargement du fichier sur le site de l'Insee et suppression une fois chargé dans R
 lien_telechargement<-"https://www.insee.fr/fr/statistiques/fichier/2540004/dpt2015.zip"
-travail <- "C:/Users/kantunez/Desktop/" #pensez à changer votre espace de travail
-download.file(lien_telechargement,destfile = paste0(travail,"dpt2015.zip")) #on télécharge
-unzip(zipfile=paste0(travail,"dpt2015.zip"), exdir=paste0(travail,"dpt2015")) #on dézippe
-dpt2015 <- read.dbf(paste0(travail,"dpt2015/dpt2015.dbf"), as.is = FALSE) 
-unlink(paste0(travail,"dpt2015.zip"), recursive = FALSE, force = FALSE)
-unlink(paste0(travail,"dpt2015"), recursive = T, force=T)  #attention ne pas mettre de / à la fin
+tmp <- tempdir() # création d'un dossier temporaire
+download.file(lien_telechargement,destfile = paste0(tmp,"\\","dpt2015.zip")) #on télécharge 
+unzip(zipfile=paste0(tmp,"\\","dpt2015.zip"), exdir=paste0(tmp,"\\","dpt2015")) #on dézippe 
+dpt2015 <- read.dbf(paste0(tmp,"\\","dpt2015/dpt2015.dbf"), as.is = FALSE) 
+#unlink(paste0(tmp,"\\","dpt2015.zip"), recursive = FALSE, force = FALSE) #non utile car dossier temporaire
+#unlink(paste0(tmp,"\\","dpt2015"), recursive = T, force=T)  #attention ne pas mettre de / à la fin #non utile car dossier temporaire
 
 
 #install.packages("dygraphs")
