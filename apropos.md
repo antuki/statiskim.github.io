@@ -10,8 +10,4 @@ permalink: /apropos/
 <p>Bonne visite !</p>
 
 ![](https://antuki.github.io/image/dessin_kim.png){: style="display: block; max-width: 100%;  height: auto; margin: auto; float:none!important "}
-
-© croquis de Bénédicte Roullier
-
-
-https://twitter.com/roullierb
+© croquis de [Bénédicte Roullier](https://twitter.com/roullierb)
