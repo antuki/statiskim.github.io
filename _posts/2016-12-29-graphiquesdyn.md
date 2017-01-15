@@ -33,15 +33,17 @@ library(sparkline)
 x <- rnorm(20)
 sparkline(x)
 ```
-testA
-<iframe width="100" height="100" src="https://antuki.github.io/figure/graphiquesdyn_html1.html" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
-testB
+test1
 <div style="position:relative; max-width: 100%; width:200px; height:200px; padding-bottom:200px;">
     <iframe style="position:absolute; left:-41px; top:-41px; width:100%; height:100%;max-width: 100%"
-        src="https://antuki.github.io/figure/graphiquesdyn_html1.html">
+        src="https://antuki.github.io/figure/graphiquesdyn_html1.html" scrolling="no">
     </iframe>
 </div>
 
-
+test2
+<div style="position:relative; max-width: 100%; width:75px; height:36px; padding-bottom:200px;">
+    <iframe style="position:absolute; left:-41px; top:-41px; width:100%; height:100%;max-width: 100%"
+        src="https://antuki.github.io/figure/graphiquesdyn_html1.html" scrolling="no">
+    </iframe>
+</div>
 
