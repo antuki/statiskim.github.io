@@ -1,8 +1,8 @@
 ---
 layout: post
 comments : true
-title: "Réaliser des graphiques dynamiques sur R"
-tags: [S'amuser sur R]
+title: "Faire des cartes lissées sur R"
+tags: [S'amuser sur R, Méthodo]
 --- 
 
 commentaires 
