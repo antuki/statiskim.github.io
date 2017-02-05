@@ -38,6 +38,3 @@ sparkline(x)
         src="https://antuki.github.io/figure/graphiquesdyn_html1.html" scrolling="no">
     </iframe>
 </div>
-
-
-padding-bottom:200px
