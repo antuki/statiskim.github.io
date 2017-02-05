@@ -20,3 +20,8 @@ Ce document est structuré de la manière suivante :
 - Enfin, dans le troisième et dernier chapitre, se trouve le coeur de l’étude sur les déterminants du prix du logement. Une première partie montre que la distance aux grands espaces urbains est un déterminant majeur du prix du foncier. Il est alors possible d’estimer un gradient de prix en fonction de la distance au centre de l’aire urbaine la plus proche. Puis, dans une seconde partie, nous montrons par une modélisation d’économétrie spatiale que certaines caractéristiques socio-économiques des territoires, comme la densité de population, influent également sur le prix du foncier. 
 
 
+<div style="position:relative; max-width: 100%;">
+    <iframe style="position:absolute; width:100%; height:100%;max-width: 100%"
+        src="https://antuki.github.io/figure/memoire_foncier_doc1.pdf" scrolling="yes">
+    </iframe>
+</div>
