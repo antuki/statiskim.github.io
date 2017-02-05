@@ -33,8 +33,8 @@ library(sparkline)
 x <- rnorm(20)
 sparkline(x)
 ```
-<div style="position:relative; max-width: 100%; width:100px; height:50px;">
-    <iframe style="position:absolute; left:-41px; top:-80px; width:100%; height:100%;max-width: 100%"
+<div style="position:relative; max-width: 100%; width:100px; height:50px; left:-41px; top:-41px;">
+    <iframe style="position:absolute; width:100%; height:100%;max-width: 100%"
         src="https://antuki.github.io/figure/graphiquesdyn_html1.html" scrolling="no">
     </iframe>
 </div>
