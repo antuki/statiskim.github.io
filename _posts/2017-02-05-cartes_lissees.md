@@ -2,7 +2,7 @@
 layout: post
 comments : true
 title: "Faire des cartes lissées sur R"
-tags: [S'amuser sur R, Méthodo]
+tags: [DataViz, S'amuser sur R, Méthodo]
 --- 
 
 Quelques chercheurs de Géographie-Cités et de l'UMS-RIATE développent depuis quelques années le package *cartography* permettant de réaliser très facilement des cartes sur R. Ils développent actuellement sur [leur compte GitHub](https://github.com/Groupe-ElementR/cartography), une nouvelle fonction *smoothLayer* s'appuyant sur leur package *SpatialPosition* permettant de faire des cartes lissées comme celles que je viens de réaliser (densités communales lissées de la densité de population en Île-de-France).   
