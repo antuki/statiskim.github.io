@@ -8,7 +8,10 @@ tags: [S'amuser sur R, Méthodo]
 commentaires 
 
 
-![](cartes_lissees_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+![](https://antuki.github.io/figure/cartes_lissees_fig1.png){: style="float:left"}
+
+
+<!--break-->
 
 ```r
 rm(list=ls())
