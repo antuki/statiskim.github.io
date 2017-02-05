@@ -15,6 +15,7 @@ Les objectifs de ce mémoire étaient assez ambitieux compte tenu du temps que j
 <!--break-->
 
 Ce document est structuré de la manière suivante : 
+
  - Dans un premier chapitre sont évoqués, d’une part, les sources de données mobilisées dans ce mémoire (l’enquête EPTB sur les prix des terrains à bâtir ainsi que le recensement de la population) et d’autre part les zonages d’étude que sont les bassins de vie et aires urbaines.
  - Vous trouverez dans le deuxième chapitre une description de différentes méthodes d’analyses et de statistiques spatiales mises en regard avec la problématique de ce mémoire.
  - Enfin, dans le troisième et dernier chapitre, se trouve le coeur de l’étude sur les déterminants du prix du logement. Une première partie montre que la distance aux grands espaces urbains est un déterminant majeur du prix du foncier. Il est alors possible d’estimer un gradient de prix en fonction de la distance au centre de l’aire urbaine la plus proche. Puis, dans une seconde partie, nous montrons par une modélisation d’économétrie spatiale que certaines caractéristiques socio-économiques des territoires, comme la densité de population, influent également sur le prix du foncier. 
