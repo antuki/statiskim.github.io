@@ -2,7 +2,7 @@
 layout: post
 comments : true
 title: "L'Insee met en ligne le fichier des prénoms"
-tags: [Open data et open source]
+tags: [DataViz, Open data et open source]
 --- 
 
 En ce début d'année 2017, l'Insee a mis en ligne le fichier des prénoms. Il contient les sexes et prénoms attribués aux enfants nés en France entre 1900 et 2015. Les données sont disponibles au niveau national mais également par département ! Rendez-vous [ici](https://www.insee.fr/fr/statistiques/2540004) et amusez-vous bien !  
