@@ -5,11 +5,11 @@ title: "Faire des cartes lissées sur R"
 tags: [S'amuser sur R, Méthodo]
 --- 
 
-Nos amis chercheurs sur l'aménagement et la cohésion des territoires en Europe (UMS-RIATE) développent depuis quelques années le package *cartography* permettant de réaliser très facilement des cartes sur R. Ils développent actuellement sur leur compte GitHub, une nouvelle fonction *smoothLayer* s'appuyant sur leur package *SpatialPosition* permettant de faire des cartes lissées comme celles que je viens de réaliser.   
+Quelques chercheurs de Géographie-Cités et de l'UMS-RIATE développent depuis quelques années le package *cartography* permettant de réaliser très facilement des cartes sur R. Ils développent actuellement sur [leur compte GitHub](https://github.com/Groupe-ElementR/cartography), une nouvelle fonction *smoothLayer* s'appuyant sur leur package *SpatialPosition* permettant de faire des cartes lissées comme celles que je viens de réaliser.   
 
-![](https://antuki.github.io/figure/cartes_lissees_fig1.png){: style="float:left"} 
+![](https://antuki.github.io/figure/cartes_lissees_fig1.png){: style="display: block; max-width: 100%;  height: auto; margin: auto; float:none!important "}
 
-Amusez-vous bien et n'hésitez pas à faire un tour sur le blog de Thimothée Giraud qui publie régulièrement des articles intéressants sur les méthodes de carto sur R ! 
+Amusez-vous bien et n'hésitez pas à faire un tour sur le [blog de Thimothée Giraud](https://rgeomatic.hypotheses.org/author/rgeomatic) qui publie régulièrement des articles intéressants sur les méthodes de carto sur R ! 
 
 <!--break-->
 
