@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Qui suis-je ?
+comments: true
 permalink: /apropos/
 ---
 <span class="post-title">Qui suis-je ? </span>
