@@ -8,8 +8,9 @@ tags: [S'amuser sur R, Méthodo]
 commentaires 
 
 
-![](https://antuki.github.io/figure/cartes_lissees_fig1.png){: style="float:left"}
+![](https://antuki.github.io/figure/cartes_lissees_fig1.png){: style="float:left"} 
 
+Amusez-vous bien ! 
 
 <!--break-->
 
