@@ -2,7 +2,7 @@
 layout: post
 comments : true
 title: "Réaliser des graphiques dynamiques sur R"
-tags: [S'amuser sur R]
+tags: [DataViz, S'amuser sur R]
 ---
 
 Depuis une petite année, j'ai eu l'occasion de découvrir quelques htmlwidgets pour R qui permettent de générer en code html des graphiques bien sympathiques. 
