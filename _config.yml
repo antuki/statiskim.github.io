@@ -99,3 +99,8 @@ text:
   pagination:
     newer: '<<'
     older: '>>'
+
+#ajouts Kim brouillons
+collections:
+  drafts:
+output: true
