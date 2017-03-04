@@ -99,6 +99,9 @@ text:
   pagination:
     newer: '<<'
     older: '>>'
+ 
+#ajouts Kim encodage par défaut
+encoding: UTF-8
 
 #ajouts Kim brouillons
 collections:
