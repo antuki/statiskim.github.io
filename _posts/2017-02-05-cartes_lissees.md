@@ -1,6 +1,7 @@
 ---
 layout: post
 comments : true
+published : false
 title: "Faire des cartes lissées sur R"
 tags: [DataViz, S'amuser sur R, Méthodo]
 --- 
